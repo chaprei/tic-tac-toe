@@ -28,7 +28,4 @@ The goal is to gain hands-on experience with React by building an interactive ga
 
 ## License
 This project is intended for educational purposes and is based on the course content from Udemy. No specific license applies.
-
-Author
-[Chantal Preissler]
-Developed as part of the Udemy course
+- Developed as part of the Udemy course
